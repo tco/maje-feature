@@ -2,8 +2,9 @@
   "name": "maje-feature",
   "description": "Maje Feature",
   "author": "Antti Rintala <antti.rintala@houston-inc.com>",
+  "contributors": ["Vadim Zapolski <v.zapolskydovnar@gmail.com>"],
   "dependencies": {
-    "stampit": "~0.1.3"
+    "stampit": ">=0.1.3"
   },
   "devDependencies": {},
   "engine": "node >= 0.4.1",
